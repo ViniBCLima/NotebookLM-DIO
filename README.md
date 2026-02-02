@@ -1,7 +1,9 @@
 # Projeto NotebookLM DIO e Bradesco (GenIA & Dados)
 
-# 🚀 Construindo um SaaS de Sucesso com IA, Dados e Automações Low-Code  
+# 🚀 Estudos sobre como desenvolver um SaaS de Sucesso com IA, Dados e Automações Low-Code  
 ### Explorando o uso do NotebookLM para resolver problemas reais
+
+Link do Notebook: https://notebooklm.google.com/notebook/0887a446-c613-4fde-81fb-ee049a5b00b5
 
 ---
 
